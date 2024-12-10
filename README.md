@@ -1,6 +1,6 @@
 # 📚 **Introduction to Regex (Regular Expressions)**
 
-**Authors:** [Habib, Billel, Anthony]  
+**Authors:** [Habib, Billel, Anthony, Yannis]  
 
 ---
 
